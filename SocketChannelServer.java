@@ -21,5 +21,5 @@ public class SocketChannelServer {
     fileChannel.close();
     System.out.println("File sent successfully.");
     Server.close();
-   } 
+}
 }
